@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 依旧懵懂的猫咪——catisher
 ### 自我介绍
-* 大佬好!
+* 你好!
 * 本人系武汉大学计院的一名本科生
 * 欢迎来到我的Github！🔭
 * 目前尚处在了解计算机的阶段，请多关照！
